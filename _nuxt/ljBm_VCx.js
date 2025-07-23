@@ -326,8 +326,8 @@ const ft = l => {
   Ht = ["innerHTML"],
   It = ["innerHTML"],
   Mt = ["src", "srcset"],
-  Ye = "/m/1440x0/filters:quality(60)",
-  Lt = "/m/1000x0/filters:quality(60)",
+  Ye = "",
+  Lt = "",
   Ot = {
     __name: "CaseHero",
     props: {
@@ -696,8 +696,8 @@ const ft = l => {
   Et = ["innerHTML"],
   Dt = ["src", "srcset"],
   Nt = ["src", "srcset"],
-  xe = "/m/1440x0/filters:quality(60)",
-  Ge = "/m/1000x0/filters:quality(60)",
+  xe = "",
+  Ge = "",
   Yt = {
     __name: "CaseNext",
     props: {
@@ -1175,8 +1175,8 @@ const ft = l => {
   Ft = ["onClick"],
   Kt = ["src", "srcset"],
   Zt = ["src", "srcset"],
-  Ce = "/m/1440x0/filters:quality(60)",
-  Ue = "/m/1000x0/filters:quality(60)",
+  Ce = "",
+  Ue = "",
   Jt = {
     __name: "CaseGallery",
     props: {
